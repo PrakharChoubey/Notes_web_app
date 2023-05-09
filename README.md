@@ -1,5 +1,6 @@
 # Notes_web_app
 
+LIVE - https://pc-notes-app.netlify.app/
 A Notes manager:-
 - allows user to create basic CRUD operations.
 - supports marked.js.
